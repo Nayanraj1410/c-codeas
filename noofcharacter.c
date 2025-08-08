@@ -1,0 +1,1 @@
+//write a program to no.of characters in a string without using predefined function
